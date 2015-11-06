@@ -191,7 +191,7 @@ var kraken = new Kraken({
 });
 
 var opts = {
-    file: '/path/to/image/file.jpg',
+    file: YOUR BUFFER,
     wait: true
 };
 
@@ -212,7 +212,7 @@ To use lossy optimizations simply set `lossy: true` in your request:
 
 ````js
 var opts = {
-    file: '/path/to/image/file.jpg',
+    file: YOUR BUFFER,
     lossy: true,
     wait: true
 };
@@ -237,7 +237,7 @@ var kraken = new Kraken({
 });
 
 var opts = {
-    file: '/path/to/image/file.jpg',
+    file: YOUR BUFFER,
     wait: true,
     resize: {
         width: 100,
